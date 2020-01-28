@@ -1,0 +1,70 @@
+.page{
+  width: 100%;
+  height: 100%;
+
+}
+.profile{
+  background-color: #f7e6ff;
+  padding-top:3%;
+  position: relative;
+  text-align: center;
+  border-style: solid;
+  border-radius: 5px;
+}
+.line{
+  width: 400px;
+  display: table;
+  margin: 0 auto;
+}
+.contact{
+}
+.facebook{
+  display: table;
+  margin: 0 auto;
+  width: 400px;
+}
+.boxname{
+  width: 320px;
+  display: inline;
+}
+#pic1{
+  width:250px;
+  height: 260px;
+  border-style: solid;
+  border-radius: 8px;
+}
+#pic-face{
+  width:40px;
+  height:40px;
+  vertical-align: middle;
+}
+#pic-line{
+  width:40px;
+  height:40px;
+  vertical-align: middle;
+}
+#profile-name{
+  font-size: 40px;
+  font-family: monospace;
+  font-weight: bold;
+}
+#name{
+  font-size: 25px;
+  font-family: monospace;
+  display: block;
+}
+#name-face{
+  font-size: 20px;
+  font-family: monospace;
+  display: inline;
+  vertical-align: middle;
+  width: 320px;
+  padding-left: 1%;
+}
+#name-line{
+  font-size: 20px;
+  font-family: monospace;
+  display: inline;
+  vertical-align: middle;
+  width: 320px;
+}
